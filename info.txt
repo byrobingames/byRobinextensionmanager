@@ -2,6 +2,6 @@ name=byRobin Extension Manager v0.2.5
 description=Needed for:Tapdaq, Vungle, UnityAds, AppLovin, StartApp, FacebookAds, WebView2.0, Leadbolt, Heyzap, Simple Share, Replaykit
 author=Robin Schaafsma
 website=https://byrobingames.github.io
-version=0.2.5
+version=0.2.6
 compatibility=all
 dependencies=toolset-com.byrobingames.manager-0.0.1
